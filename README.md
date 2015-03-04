@@ -1,3 +1,9 @@
+## COURSE PROJECT Week 1 for coursera course 'Exploratory Data Analysis'
+
+The code assumes that the file containing the data to be handled in the
+project has been unzipped in the working directory. Otherwise,
+the zip file cointaining the raw data is donwloaded and the file unzipped.
+
 ## Introduction
 
 This assignment uses data from
@@ -34,9 +40,6 @@ web site</a>:
 </ol>
 
 ## Loading the data
-
-
-
 
 
 When loading the dataset into R, please consider the following:
@@ -89,26 +92,26 @@ GitHub so that the GitHub version of your repository is up to
 date. There should be four PNG files and four R code files.
 
 
-The four plots that you will need to construct are shown below. 
+The four plots that you will construct are shown below.
 
 
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![plot1.png)
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+![plot2.png)
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![plot3.png)
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot4.png)
 
